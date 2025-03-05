@@ -4,7 +4,7 @@ Welcome to the **CSE423 - Computer Graphics** repository! This repository contai
 
 
 ## 📚 Assignments
- -Assignments implement the Midpoint line and Midpoint circle algorithms.
+ - Assignments implement the Midpoint line and Midpoint circle algorithms.
 ## 🚀 Project
   - The project is also done using midpoint line and circle drawing algorithm. It is a simple game consisting of asteroids, canons, and space aliens.
       
